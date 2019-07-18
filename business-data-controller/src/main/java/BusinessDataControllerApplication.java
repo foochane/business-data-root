@@ -30,5 +30,4 @@ public class BusinessDataControllerApplication  extends WebMvcConfigurerAdapter 
 				.allowedMethods("*");
 
 	}
-
 }
